@@ -1,9 +1,9 @@
 # Build your say_hello method here
 
 def say_hello(name)
-prints "Hello " + name + "!"
+print "Hello " + name + "!"
 end
 
 def say_hello
-prints "Hello Ruby Programmer!"
-end 
+print "Hello Ruby Programmer!"
+end
